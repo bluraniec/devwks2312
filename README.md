@@ -6,6 +6,7 @@ This session demonstrates how NSO and Model-Driven Telemetry can be used in an e
 
 # About the LAB
 The goal of this lab is to showcase a closed-loop solution in a BGP neighbors’ example. In a stable state, BGP neighbor flaps should not occur frequently. Frequent flaps indicate a problem with Circuit, Hardware, Software or Configuration. We want to monitor these flaps and shutdown the neighbor in case of repeated alarm.
+
 <img align="center" width=70% src="/readme/2.png"></img>
 
 # Learning Objectives
