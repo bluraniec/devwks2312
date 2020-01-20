@@ -17,3 +17,6 @@ Upon completion of this lab you, you will be able to:
 - Basic understanding of Python and Linux
 - Basics of SQL language
 - Basic understanding of NSO and YANG Data Modeling
+
+<h4 align="center">[1/12]</h4>
+<h4 align="center"> <a href="/readme/1.md"> What is Telemetry? :arrow_right: </a> </h4>
