@@ -4,6 +4,10 @@ Cisco Network Services Orchestrator (NSO) is software that enables the delivery 
  
 This session demonstrates how NSO and Model-Driven Telemetry can be used in an environment with virtualized devices running Operating Systems, such as Cisco IOS-XR. Over the lab you will have the opportunity to create and automate a service through NSO and to connect it with open-source telemetry tools that will adjust the service in near real-time.
 
+# About the LAB
+The goal of this lab is to showcase a closed-loop solution in a BGP neighbors’ example. In a stable state, BGP neighbor flaps should not occur frequently. Frequent flaps indicate a problem with Circuit, Hardware, Software or Configuration. We want to monitor these flaps and shutdown the neighbor in case of repeated alarm.
+![Closed-loop](/readme/2.png)
+
 # Learning Objectives
 Upon completion of this lab you, you will be able to:
 - Configure Model-Driven Telemetry on Cisco IOS-XR devices 
