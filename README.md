@@ -1,4 +1,4 @@
-![Intro](/pics/1.png)
+![Intro](/readme/1.png)
 # Introduction
 Cisco Network Services Orchestrator (NSO) is software that enables the delivery of high-quality services faster and more easily through network automation. NSO combined with Model-Driven Telemetry (MDT) allows to create self-healing network capable of performing advanced monitoring and near real-time remedial tasks that usually require human intervention. This offers companies the opportunity to reduce the cost associated with large IT departments and to allocate human resources more strategically, reducing hours spent performing reactive work and focusing on more proactive activities.
  
